@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Antismart! <img src="https://github.com/Antismart/Antismart/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Moses Timbwa! <img src="https://github.com/Antismart/Antismart/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center">

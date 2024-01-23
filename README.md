@@ -11,7 +11,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone or fork projects, raise issues & submit PRs if you think something could be done better. <br>
+Please feel free to clone/fork projects, raise issues & submit PRs if you think something could be done better. <br>
 Ask me anything here <a href="https://github.com/Antismart/Antismart/issues/new"><b>here</b></a><br>
 or <a href="timbwamoses83@gmail.com"><b>email</b></a> me
 
